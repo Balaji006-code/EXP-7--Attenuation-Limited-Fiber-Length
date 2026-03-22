@@ -82,4 +82,16 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+
+## TABULATION AND CALCULATION
+
+<img width="931" height="1600" alt="image" src="https://github.com/user-attachments/assets/9f0a1569-3286-4561-a229-22a3f5b53913" />
+
+<img width="1080" height="1586" alt="image" src="https://github.com/user-attachments/assets/ab3be415-01fe-4b1b-b472-660d3de9de06" />
+
+## RESULT
+
+Thus the attenuation-limited fiber length based on the power budget equation is calculated and the result simulated is verified.
+
